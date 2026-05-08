@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/training-project.iml" filepath="$PROJECT_DIR$/.idea/training-project.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/react-land-page.iml" filepath="$PROJECT_DIR$/.idea/react-land-page.iml" />
+>>>>>>> 4c6b1e1 (initial commit)
     </modules>
   </component>
 </project>
