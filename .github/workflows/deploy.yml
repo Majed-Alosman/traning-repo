@@ -7,7 +7,7 @@ on:
 
 jobs:
   deploy-react:
-    name: 🚀 React Production Deployment
+    name: 🚀 React  Production Deployment
     runs-on: ubuntu-latest
 
     steps:
